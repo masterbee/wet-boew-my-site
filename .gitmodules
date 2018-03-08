@@ -1,0 +1,9 @@
+[submodule "theme"]
+	path = theme
+	url = https://github.com/masterbee/wet-boew-theme-gcweb.git
+[submodule "build"]
+	path = build
+	url = https://github.com/masterbee/wet-boew-builder-java.git
+[submodule "wb5"]
+	path = wb5
+	url = https://github.com/masterbee/wet-boew-core.git
